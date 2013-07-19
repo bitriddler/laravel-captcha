@@ -1,4 +1,4 @@
-# Captcha v1.0.0
+# Captcha
 An easy class to create and validate captcha images
 
 

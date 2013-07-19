@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "captcha": "src/"
+            "Captcha": "src/"
         }
     },
     "license": "Apache-2.0"
